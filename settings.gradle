@@ -1,0 +1,3 @@
+rootProject.name='oaid_helper'
+include ':app'
+include ':library'
